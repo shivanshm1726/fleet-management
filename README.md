@@ -70,9 +70,6 @@
 
 ## 🚀 Quick Start
 
-<div align="center">
-  <img src="https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg" alt="Getting Started" width="500" style="border-radius: 10px;">
-</div>
 
 ### Prerequisites
 
@@ -128,23 +125,6 @@ graph TD
     style F fill:#fff3e0
     style G fill:#fce4ec
 ```
-
-</div>
-
----
-
-## 📱 Screenshots & Demo
-
-<div align="center">
-  
-### 🏠 Homepage Dashboard
-<img src="https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg" alt="Homepage" width="700" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-### 🗺️ Ship Tracking Interface
-<img src="https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg" alt="Tracking" width="700" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-### 📊 Analytics Dashboard
-<img src="https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg" alt="Analytics" width="700" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 </div>
 
