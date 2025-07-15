@@ -20,9 +20,6 @@
 
 **FleetX** is a comprehensive fleet management system designed to revolutionize maritime operations. Our platform provides real-time ship tracking, route optimization, and comprehensive fleet analytics to help maritime companies operate more efficiently and safely.
 
-<div align="center">
-  <img src="https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg" alt="Ship at sea" width="600" style="border-radius: 10px; margin: 20px 0;">
-</div>
 
 ## ✨ Key Features
 
